@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Gradle + Spring MVC</title>
+<title>Rushi Technologies</title>
 
 <spring:url value="/resources/core/css/hello.css" var="coreCss" />
 <spring:url value="/resources/core/css/bootstrap.min.css" var="bootstrapCss" />
@@ -28,7 +28,7 @@
 			</c:if>
 
 			<c:if test="${empty msg}">
-				Welcome Welcome!
+				Welcome to Rushi Technologies !
 			</c:if>
 		<p>
 			<a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
@@ -65,7 +65,7 @@
 
 	<hr>
 	<footer>
-		<p>&copy; Rushi Technologies 2018</p>
+		<p>&copy; Rushi Technologies 2025</p>
 	</footer>
 </div>
 
